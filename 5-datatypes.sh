@@ -1,0 +1,13 @@
+#!/bin/bash
+
+TIMESTAMP=$(date)
+echo "TIME OF SCRIPT EXCUTED: $TIMESTAMP"
+
+NUMBER1=10
+NUMBER2=20
+
+TIMESTAMP=$(date)
+echo "time excuted: $TIMESTAMP"
+SUM=$(($NUMBER1+$NUMBER2))
+
+echo "SUM of $NUMBER1 AND $NUMBER2 IS: $SUM"
