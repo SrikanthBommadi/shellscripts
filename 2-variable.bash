@@ -1,7 +1,7 @@
 #i/bin/bash
 
-PERSON1 =SRI  ## we can chage the value here   
-PERSON2 =REDDY
+PERSON1=SRI  ## we can chage the value here   
+PERSON2=REDDY
 
 # echo "$PERSON1:: hi"
 # echo "$PERSON2:: hi"
