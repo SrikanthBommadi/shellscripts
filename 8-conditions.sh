@@ -2,4 +2,4 @@
 
 # -gt =greater than
 # -lt = less than
-# -eq =
+# -eq = equal to
